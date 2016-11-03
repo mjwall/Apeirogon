@@ -4,9 +4,10 @@
 [![Build Status](https://travis-ci.org/phrocker/accumulocpp.svg?branch=master)](https://travis-ci.org/phrocker/accumulocpp)
 
 
-Accumulo C++ Native connector. While initial support has been built accumulo, the design
+Native KeyValue connector. While initial support has been built for Apache Accumulo, the design
 can and has been used to extend to other Key/Value Stores
 
+Currently the code is a merger of C && C++ code. 
 
 Capabilities That will be supported in V0.3  --
 
