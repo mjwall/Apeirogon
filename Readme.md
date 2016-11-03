@@ -1,9 +1,7 @@
-Current Version 0.3 -- This is a beta release. The next scheduled tag will be 0.4 9/05/2016.
-This will include additional error handling 
 
 ***
 
-[![Build Status](https://travis-ci.org/phrocker/apeirogon.svg?branch=master)](https://travis-ci.org/phrocker/apeirogon)
+[![Build Status](https://travis-ci.org/phrocker/accumulocpp.svg?branch=master)](https://travis-ci.org/phrocker/accumulocpp)
 
 
 Accumulo C++ Native connector. While initial support has been built accumulo, the design
