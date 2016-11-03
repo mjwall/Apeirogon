@@ -9,7 +9,7 @@ can and has been used to extend to other Key/Value Stores
 
 Currently the code is a merger of C && C++ code. 
 
-Capabilities That will be supported in V0.3  --
+Capabilities That will be supported in V0.1  --
 
   Currently we are known to work with version 1.6.x and 1.7
 
