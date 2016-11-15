@@ -1,7 +1,7 @@
 
 ***
 
-[![Build Status](https://travis-ci.org/phrocker/accumulocpp.svg?branch=master)](https://travis-ci.org/phrocker/accumulocpp)
+[![Build Status](https://travis-ci.org/phrocker/NativeKV.svg?branch=master)](https://travis-ci.org/phrocker/NativeKV)
 
 
 Native KeyValue connector. While initial support has been built for Apache Accumulo, the design
